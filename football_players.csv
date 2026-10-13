@@ -1,0 +1,301 @@
+player_id,name,team,position,season,age,nationality,appearances,minutes_played,goals,assists,shots,passes,pass_accuracy,tackles,yellow_cards,red_cards,rating
+1,Zaid Wilson,Westbrook City,Midfielder,2021-22,27,Senegal,11,825,2,2,2,762,78.9,4,6,0,6.9
+1,Zaid Wilson,Westbrook City,Midfielder,2022-23,28,Senegal,32,2976,6,5,8,2233,58.0,2,1,0,6.4
+1,Zaid Wilson,Westbrook City,Midfielder,2023-24,29,Senegal,16,1168,3,6,4,1110,74.1,0,6,0,8.0
+2,Max Jones,FC Northgate,Midfielder,2021-22,22,Croatia,18,1620,4,1,4,1266,88.1,0,2,0,7.0
+2,Max Jones,FC Northgate,Midfielder,2022-23,23,Croatia,30,2220,4,5,4,2106,80.2,4,1,2,7.9
+2,Max Jones,FC Northgate,Midfielder,2023-24,24,Croatia,26,1976,1,6,8,1828,57.6,5,7,2,8.4
+3,Ethan Fernández,FC Northgate,Defender,2021-22,31,Nigeria,18,1638,1,3,2,985,74.1,3,1,1,6.0
+3,Ethan Fernández,FC Northgate,Defender,2022-23,32,Nigeria,9,774,0,1,2,488,79.9,2,4,2,7.4
+3,Ethan Fernández,FC Northgate,Defender,2023-24,33,Nigeria,22,2046,1,1,1,1205,62.1,5,0,2,7.0
+4,Hugo Kowalski,Westbrook City,Defender,2021-22,24,Spain,12,948,1,0,1,658,68.0,2,6,1,6.8
+4,Hugo Kowalski,Westbrook City,Defender,2022-23,25,Spain,9,756,1,0,1,486,74.9,1,5,0,5.5
+4,Hugo Kowalski,Westbrook City,Defender,2023-24,26,Spain,32,2240,0,2,3,1754,78.1,2,3,2,6.7
+5,Kai Bernard,Capital City FC,Defender,2021-22,32,Mexico,13,1183,0,0,3,708,77.2,2,0,2,5.0
+5,Kai Bernard,Capital City FC,Defender,2022-23,33,Mexico,8,664,0,1,1,447,91.5,0,1,1,5.2
+5,Kai Bernard,Capital City FC,Defender,2023-24,34,Mexico,20,1540,1,3,3,1092,76.5,4,3,0,7.1
+6,Carlos Park,Eastern Athletic,Defender,2021-22,26,Colombia,15,1200,1,0,1,832,73.0,4,5,2,7.8
+6,Carlos Park,Eastern Athletic,Defender,2022-23,27,Colombia,36,2700,2,3,3,1973,87.1,11,2,1,7.1
+6,Carlos Park,Eastern Athletic,Defender,2023-24,28,Colombia,8,728,1,1,1,444,86.3,1,2,2,6.4
+7,Oscar Thompson,Capital City FC,Midfielder,2021-22,29,France,26,2288,6,5,6,1828,76.5,3,5,2,6.9
+7,Oscar Thompson,Capital City FC,Midfielder,2022-23,30,France,30,2100,3,6,3,2106,71.5,5,2,2,6.9
+7,Oscar Thompson,Capital City FC,Midfielder,2023-24,31,France,29,2697,2,4,8,2035,69.3,5,5,2,6.9
+8,Kofi Ahmed,FC Northgate,Midfielder,2021-22,22,South Korea,22,1914,3,4,3,1532,80.8,3,4,1,5.9
+8,Kofi Ahmed,FC Northgate,Midfielder,2022-23,23,South Korea,32,2688,10,6,10,2241,82.8,6,7,0,6.8
+8,Kofi Ahmed,FC Northgate,Midfielder,2023-24,24,South Korea,25,2200,4,7,5,1745,67.7,1,4,0,7.5
+9,Oscar Dupont,FC Northgate,Goalkeeper,2021-22,18,Italy,28,2128,0,1,1,980,73.2,0,3,0,7.8
+9,Oscar Dupont,FC Northgate,Goalkeeper,2022-23,19,Italy,34,2584,0,1,1,1194,79.9,1,2,0,5.6
+9,Oscar Dupont,FC Northgate,Goalkeeper,2023-24,20,Italy,37,3034,0,1,0,1285,90.8,0,1,0,6.8
+10,Felix Thompson,Westbrook City,Defender,2021-22,27,Belgium,14,1008,2,0,2,776,64.4,0,5,2,6.6
+10,Felix Thompson,Westbrook City,Defender,2022-23,28,Belgium,15,1350,2,4,2,829,66.4,4,7,1,7.6
+10,Felix Thompson,Westbrook City,Defender,2023-24,29,Belgium,34,3128,2,4,5,1861,80.7,9,2,2,6.8
+11,Noah Leroy,Port Vale Rangers,Defender,2021-22,27,Spain,14,1162,0,1,4,762,60.1,3,1,1,6.6
+11,Noah Leroy,Port Vale Rangers,Defender,2022-23,28,Spain,37,2738,0,0,6,2044,73.8,6,4,2,6.3
+11,Noah Leroy,Port Vale Rangers,Defender,2023-24,29,Spain,29,2610,1,0,1,1587,81.4,8,7,2,7.6
+12,Tom Santos,Capital City FC,Midfielder,2021-22,18,Mexico,10,750,2,3,2,704,80.3,1,2,1,8.4
+12,Tom Santos,Capital City FC,Midfielder,2022-23,19,Mexico,31,2604,0,4,12,2172,79.0,2,1,2,7.5
+12,Tom Santos,Capital City FC,Midfielder,2023-24,20,Mexico,34,2550,5,3,5,2382,72.5,3,5,2,7.0
+13,Noah Osei,Northern Star,Midfielder,2021-22,32,Netherlands,17,1326,4,3,4,1197,91.2,2,3,0,6.2
+13,Noah Osei,Northern Star,Midfielder,2022-23,33,Netherlands,19,1444,0,4,3,1339,64.8,5,0,1,7.5
+13,Noah Osei,Northern Star,Midfielder,2023-24,34,Netherlands,19,1767,4,4,4,1336,88.0,5,6,2,5.0
+14,Hugo Silva,Westbrook City,Defender,2021-22,19,Portugal,36,2916,0,4,3,1982,74.0,5,5,1,5.9
+14,Hugo Silva,Westbrook City,Defender,2022-23,20,Portugal,21,1764,1,3,1,1160,63.2,2,0,1,6.7
+14,Hugo Silva,Westbrook City,Defender,2023-24,21,Portugal,15,1305,0,1,1,821,76.6,0,5,1,5.9
+15,Mateo Traoré,Lakeside FC,Forward,2021-22,31,Germany,25,2100,5,3,17,1259,92.2,1,5,1,7.7
+15,Mateo Traoré,Lakeside FC,Forward,2022-23,32,Germany,10,780,3,2,5,495,67.5,0,7,0,7.4
+15,Mateo Traoré,Lakeside FC,Forward,2023-24,33,Germany,34,2448,5,4,29,1707,76.8,4,3,1,7.6
+16,Felix Fernández,FC Northgate,Defender,2021-22,23,Colombia,28,1988,3,3,3,1534,74.1,5,5,0,6.2
+16,Felix Fernández,FC Northgate,Defender,2022-23,24,Colombia,22,1826,1,1,2,1212,68.9,3,1,2,6.2
+16,Felix Fernández,FC Northgate,Defender,2023-24,25,Colombia,29,2407,1,1,4,1590,72.9,7,1,1,6.6
+17,Emil Taylor,Westbrook City,Forward,2021-22,26,Senegal,9,702,2,0,4,457,76.1,0,0,2,7.2
+17,Emil Taylor,Westbrook City,Forward,2022-23,27,Senegal,31,2604,8,3,27,1557,82.7,3,7,0,7.0
+17,Emil Taylor,Westbrook City,Forward,2023-24,28,Senegal,19,1463,10,4,10,952,73.8,1,5,2,6.9
+18,Victor Mbeki,Capital City FC,Midfielder,2021-22,25,Uruguay,32,2880,4,4,8,2245,88.0,5,3,2,7.1
+18,Victor Mbeki,Capital City FC,Midfielder,2022-23,26,Uruguay,18,1476,3,4,3,1267,77.5,5,1,0,6.7
+18,Victor Mbeki,Capital City FC,Midfielder,2023-24,27,Uruguay,37,2960,4,7,4,2589,72.8,6,1,2,7.4
+19,Simon Osei,FC Northgate,Goalkeeper,2021-22,30,Germany,12,876,0,0,0,427,70.5,0,6,1,7.1
+19,Simon Osei,FC Northgate,Goalkeeper,2022-23,31,Germany,12,1008,0,1,0,414,84.8,0,7,2,8.1
+19,Simon Osei,FC Northgate,Goalkeeper,2023-24,32,Germany,17,1326,0,0,0,602,63.5,1,6,0,5.3
+20,Marco Jones,Eastern Athletic,Defender,2021-22,22,Germany,24,1920,1,0,3,1317,63.5,2,6,0,5.8
+20,Marco Jones,Eastern Athletic,Defender,2022-23,23,Germany,24,1704,1,2,2,1321,80.6,1,1,2,8.4
+20,Marco Jones,Eastern Athletic,Defender,2023-24,24,Germany,37,3293,0,4,3,2029,81.9,6,0,0,7.4
+21,Oliver Rossi,Westbrook City,Midfielder,2021-22,18,Belgium,37,3330,5,3,9,2589,77.1,7,7,2,7.1
+21,Oliver Rossi,Westbrook City,Midfielder,2022-23,19,Belgium,27,2241,2,8,5,1881,62.3,1,4,0,6.8
+21,Oliver Rossi,Westbrook City,Midfielder,2023-24,20,Belgium,21,1869,1,4,3,1474,70.1,1,7,0,6.6
+22,Mason Thompson,Hillside Rovers,Midfielder,2021-22,30,Brazil,11,803,3,3,3,773,71.8,1,4,1,5.9
+22,Mason Thompson,Hillside Rovers,Midfielder,2022-23,31,Brazil,30,2130,4,5,4,2093,71.9,4,1,2,7.2
+22,Mason Thompson,Hillside Rovers,Midfielder,2023-24,32,Brazil,16,1424,3,3,3,1117,77.2,4,6,0,7.4
+23,Aiden Kowalski,FC Northgate,Midfielder,2021-22,24,Netherlands,35,3220,5,3,5,2447,83.0,4,0,0,6.2
+23,Aiden Kowalski,FC Northgate,Midfielder,2022-23,25,Netherlands,9,756,0,0,4,627,74.7,2,7,2,6.0
+23,Aiden Kowalski,FC Northgate,Midfielder,2023-24,26,Netherlands,23,1633,1,5,3,1612,78.0,7,6,2,8.1
+24,Enzo García,Capital City FC,Midfielder,2021-22,32,France,29,2639,3,7,9,2020,79.3,0,3,2,7.1
+24,Enzo García,Capital City FC,Midfielder,2022-23,33,France,17,1207,2,2,2,1196,81.2,1,7,2,7.7
+24,Enzo García,Capital City FC,Midfielder,2023-24,34,France,30,2250,8,1,8,2108,68.5,6,5,0,6.8
+25,Emil Osei,Riverside United,Midfielder,2021-22,22,South Korea,19,1425,3,2,3,1325,84.8,2,2,2,7.3
+25,Emil Osei,Riverside United,Midfielder,2022-23,23,South Korea,13,1092,3,1,3,912,78.4,0,2,0,7.0
+25,Emil Osei,Riverside United,Midfielder,2023-24,24,South Korea,26,2054,4,5,4,1829,77.8,1,5,1,6.9
+26,Rafael Davies,Northern Star,Midfielder,2021-22,23,France,37,3367,4,5,7,2593,81.4,5,1,0,5.8
+26,Rafael Davies,Northern Star,Midfielder,2022-23,24,France,31,2666,4,5,6,2175,88.1,6,3,2,6.6
+26,Rafael Davies,Northern Star,Midfielder,2023-24,25,France,15,1125,2,2,2,1054,72.7,1,1,1,5.5
+27,Aiden Traoré,Sundown Athletic,Goalkeeper,2021-22,30,Japan,24,1704,0,0,1,835,68.6,0,2,1,5.1
+27,Aiden Traoré,Sundown Athletic,Goalkeeper,2022-23,31,Japan,18,1584,0,0,0,628,90.0,0,6,0,7.7
+27,Aiden Traoré,Sundown Athletic,Goalkeeper,2023-24,32,Japan,22,1848,1,0,1,762,81.3,0,2,1,6.6
+28,Noah Wilson,Port Vale Rangers,Defender,2021-22,24,Germany,8,560,0,0,2,440,79.2,3,6,0,6.8
+28,Noah Wilson,Port Vale Rangers,Defender,2022-23,25,Germany,30,2700,2,2,2,1648,76.3,6,2,0,7.9
+28,Noah Wilson,Port Vale Rangers,Defender,2023-24,26,Germany,18,1278,1,1,2,999,77.0,3,1,1,7.1
+29,Simon Jones,Sundown Athletic,Defender,2021-22,20,Colombia,18,1692,1,3,1,994,77.3,2,3,0,6.6
+29,Simon Jones,Sundown Athletic,Defender,2022-23,21,Colombia,15,1380,0,2,1,828,77.7,0,0,2,7.0
+29,Simon Jones,Sundown Athletic,Defender,2023-24,22,Colombia,16,1152,0,3,0,877,73.1,2,6,1,6.0
+30,Mason Chen,Capital City FC,Forward,2021-22,29,South Korea,34,3026,11,4,11,1690,59.9,0,2,0,6.6
+30,Mason Chen,Capital City FC,Forward,2022-23,30,South Korea,10,780,2,5,3,503,75.6,0,4,0,7.7
+30,Mason Chen,Capital City FC,Forward,2023-24,31,South Korea,10,810,1,5,8,493,68.5,1,3,1,7.1
+31,Ethan Jones,Lakeside FC,Midfielder,2021-22,27,Portugal,19,1558,2,5,3,1333,63.0,3,7,0,7.4
+31,Ethan Jones,Lakeside FC,Midfielder,2022-23,28,Portugal,20,1500,1,5,2,1396,90.2,5,2,2,6.8
+31,Ethan Jones,Lakeside FC,Midfielder,2023-24,29,Portugal,20,1660,1,5,4,1409,69.3,2,5,0,7.1
+32,Kwame Brown,Lakeside FC,Forward,2021-22,20,Brazil,11,957,2,2,8,542,70.1,0,1,0,7.1
+32,Kwame Brown,Lakeside FC,Forward,2022-23,21,Brazil,13,936,2,1,4,645,78.8,0,1,2,7.5
+32,Kwame Brown,Lakeside FC,Forward,2023-24,22,Brazil,20,1840,8,1,9,991,73.0,1,3,0,5.8
+33,Luca García,Riverside United,Defender,2021-22,22,Croatia,31,2170,1,0,3,1706,67.5,5,0,0,6.9
+33,Luca García,Riverside United,Defender,2022-23,23,Croatia,25,1850,0,2,1,1374,74.3,4,6,1,7.0
+33,Luca García,Riverside United,Defender,2023-24,24,Croatia,11,957,2,1,2,611,64.9,1,4,2,6.9
+34,Iker García,Port Vale Rangers,Forward,2021-22,23,South Korea,30,2640,12,6,15,1494,95.0,0,2,2,5.6
+34,Iker García,Port Vale Rangers,Forward,2022-23,24,South Korea,34,3060,12,4,20,1695,74.0,0,7,1,5.9
+34,Iker García,Port Vale Rangers,Forward,2023-24,25,South Korea,30,2190,14,5,21,1500,75.6,3,7,1,7.7
+35,Noah Herrera,Hillside Rovers,Forward,2021-22,26,Senegal,28,2380,9,2,9,1398,67.3,5,3,1,7.6
+35,Noah Herrera,Hillside Rovers,Forward,2022-23,27,Senegal,13,1040,4,3,4,654,78.4,0,2,2,6.5
+35,Noah Herrera,Hillside Rovers,Forward,2023-24,28,Senegal,21,1953,9,3,12,1057,81.5,0,3,0,6.0
+36,Lucas Martin,Riverside United,Defender,2021-22,30,France,31,2604,2,3,2,1712,82.6,2,6,1,6.0
+36,Lucas Martin,Riverside United,Defender,2022-23,31,France,15,1170,0,1,2,826,69.0,6,6,1,7.1
+36,Lucas Martin,Riverside United,Defender,2023-24,32,France,36,2520,3,2,4,1985,70.6,7,3,0,5.8
+37,James Martin,Sundown Athletic,Midfielder,2021-22,31,Netherlands,35,2660,8,8,8,2444,76.4,3,2,0,6.9
+37,James Martin,Sundown Athletic,Midfielder,2022-23,32,Netherlands,10,840,2,2,3,701,80.4,0,1,0,7.3
+37,James Martin,Sundown Athletic,Midfielder,2023-24,33,Netherlands,13,988,0,3,1,908,85.1,3,6,0,6.9
+38,Max Davies,Riverside United,Midfielder,2021-22,29,South Korea,31,2387,5,5,11,2174,76.3,7,1,0,6.5
+38,Max Davies,Riverside United,Midfielder,2022-23,30,South Korea,25,1850,2,9,7,1743,62.2,4,0,1,7.2
+38,Max Davies,Riverside United,Midfielder,2023-24,31,South Korea,26,2392,3,10,6,1814,82.2,0,6,2,5.1
+39,Axel Chen,Sundown Athletic,Forward,2021-22,22,South Korea,28,2604,8,7,8,1396,60.1,0,1,0,7.6
+39,Axel Chen,Sundown Athletic,Forward,2022-23,23,South Korea,27,2403,11,5,12,1346,73.5,0,3,2,7.5
+39,Axel Chen,Sundown Athletic,Forward,2023-24,24,South Korea,17,1513,4,2,12,852,80.5,0,4,0,5.0
+40,Hiroshi Nakamura,FC Northgate,Defender,2021-22,32,United States,17,1309,0,1,1,942,68.2,5,0,1,6.1
+40,Hiroshi Nakamura,FC Northgate,Defender,2022-23,33,United States,23,1932,3,2,3,1271,62.3,3,0,2,7.4
+40,Hiroshi Nakamura,FC Northgate,Defender,2023-24,34,United States,28,2072,0,2,9,1541,69.3,6,7,0,8.3
+41,Kofi Brown,Lakeside FC,Defender,2021-22,18,Japan,24,1728,1,2,2,1315,79.0,4,2,0,6.8
+41,Kofi Brown,Lakeside FC,Defender,2022-23,19,Japan,8,592,1,0,2,439,79.6,0,3,2,7.6
+41,Kofi Brown,Lakeside FC,Defender,2023-24,20,Japan,9,837,1,0,1,492,75.6,4,5,0,6.3
+42,Ryo Smith,FC Northgate,Midfielder,2021-22,31,Senegal,18,1332,2,2,4,1264,76.3,0,3,1,6.8
+42,Ryo Smith,FC Northgate,Midfielder,2022-23,32,Senegal,14,1176,0,7,2,989,60.2,3,3,2,6.1
+42,Ryo Smith,FC Northgate,Midfielder,2023-24,33,Senegal,34,2448,3,6,5,2371,73.3,6,5,1,7.0
+43,Gabriel Ahmed,Northern Star,Forward,2021-22,31,Mexico,37,3478,8,8,24,1850,64.7,2,3,0,7.4
+43,Gabriel Ahmed,Northern Star,Forward,2022-23,32,Mexico,15,1140,3,1,7,753,77.6,5,6,2,5.0
+43,Gabriel Ahmed,Northern Star,Forward,2023-24,33,Mexico,21,1617,6,5,13,1044,71.8,1,6,1,7.9
+44,Rafael Bernard,Port Vale Rangers,Defender,2021-22,31,South Korea,18,1692,0,1,1,985,64.9,2,5,0,7.5
+44,Rafael Bernard,Port Vale Rangers,Defender,2022-23,32,South Korea,23,1702,5,1,5,1259,65.8,4,1,1,5.7
+44,Rafael Bernard,Port Vale Rangers,Defender,2023-24,33,South Korea,14,1190,1,1,1,774,67.1,6,5,2,7.2
+45,Iker Thompson,Hillside Rovers,Goalkeeper,2021-22,21,Germany,23,2116,0,1,0,795,67.1,1,7,1,5.4
+45,Iker Thompson,Hillside Rovers,Goalkeeper,2022-23,22,Germany,26,2158,0,0,1,910,64.0,0,6,1,6.3
+45,Iker Thompson,Hillside Rovers,Goalkeeper,2023-24,23,Germany,35,3255,0,0,1,1229,68.9,1,1,2,7.3
+46,Marco Williams,Sundown Athletic,Forward,2021-22,22,Croatia,20,1820,6,4,13,1000,66.2,2,0,1,7.5
+46,Marco Williams,Sundown Athletic,Forward,2022-23,23,Croatia,35,2730,11,9,11,1747,72.8,2,0,2,7.6
+46,Marco Williams,Sundown Athletic,Forward,2023-24,24,Croatia,35,3115,13,7,17,1750,73.5,2,1,1,7.3
+47,Enzo Jones,Hillside Rovers,Defender,2021-22,29,Netherlands,24,1872,0,3,6,1315,77.8,4,6,2,7.0
+47,Enzo Jones,Hillside Rovers,Defender,2022-23,30,Netherlands,10,900,1,1,1,547,65.0,2,4,2,7.1
+47,Enzo Jones,Hillside Rovers,Defender,2023-24,31,Netherlands,9,729,1,1,1,501,82.4,1,6,2,5.9
+48,Oscar Traoré,Sundown Athletic,Midfielder,2021-22,27,Mexico,13,936,2,2,5,904,69.9,1,7,0,7.2
+48,Oscar Traoré,Sundown Athletic,Midfielder,2022-23,28,Mexico,12,1092,0,3,4,835,84.3,4,7,0,6.2
+48,Oscar Traoré,Sundown Athletic,Midfielder,2023-24,29,Mexico,17,1224,2,2,5,1193,76.9,0,3,2,7.2
+49,Emil Osei,Capital City FC,Forward,2021-22,27,Croatia,22,1760,3,1,13,1109,83.4,1,2,1,7.0
+49,Emil Osei,Capital City FC,Forward,2022-23,28,Croatia,9,828,4,3,7,458,81.0,2,0,2,7.3
+49,Emil Osei,Capital City FC,Forward,2023-24,29,Croatia,15,1215,4,1,11,750,68.5,1,7,2,6.7
+50,Max Jones,Riverside United,Midfielder,2021-22,22,Netherlands,23,1909,4,4,6,1618,86.5,3,6,1,7.0
+50,Max Jones,Riverside United,Midfielder,2022-23,23,Netherlands,9,801,0,1,3,631,82.0,0,5,0,6.3
+50,Max Jones,Riverside United,Midfielder,2023-24,24,Netherlands,37,3441,4,6,7,2589,65.5,3,4,0,5.0
+51,Liam Diallo,Northern Star,Midfielder,2021-22,24,Portugal,23,2001,8,5,8,1618,75.8,2,5,2,8.2
+51,Liam Diallo,Northern Star,Midfielder,2022-23,25,Portugal,29,2117,5,8,9,2029,79.3,5,4,0,7.8
+51,Liam Diallo,Northern Star,Midfielder,2023-24,26,Portugal,29,2117,2,4,7,2035,76.1,6,3,2,5.1
+52,Mason Okafor,Lakeside FC,Defender,2021-22,21,Nigeria,16,1424,1,0,1,872,68.8,3,7,2,7.4
+52,Mason Okafor,Lakeside FC,Defender,2022-23,22,Nigeria,19,1330,2,3,2,1042,73.6,3,1,1,7.3
+52,Mason Okafor,Lakeside FC,Defender,2023-24,23,Nigeria,12,984,1,1,1,668,70.1,4,5,2,6.1
+53,Oscar Silva,Sundown Athletic,Midfielder,2021-22,18,United States,12,1056,1,3,3,830,77.6,1,7,1,6.8
+53,Oscar Silva,Sundown Athletic,Midfielder,2022-23,19,United States,11,825,0,0,1,773,81.8,0,2,1,6.7
+53,Oscar Silva,Sundown Athletic,Midfielder,2023-24,20,United States,31,2821,7,1,9,2160,77.8,4,1,1,6.2
+54,Ethan Leroy,Hillside Rovers,Midfielder,2021-22,31,Mexico,21,1869,4,1,4,1462,86.1,2,3,0,5.2
+54,Ethan Leroy,Hillside Rovers,Midfielder,2022-23,32,Mexico,15,1380,2,1,2,1046,77.1,5,6,0,5.8
+54,Ethan Leroy,Hillside Rovers,Midfielder,2023-24,33,Mexico,36,3276,3,3,8,2522,74.5,3,5,0,6.1
+55,Carlos Evans,Northern Star,Defender,2021-22,31,Morocco,13,936,0,1,2,721,89.7,2,6,0,5.7
+55,Carlos Evans,Northern Star,Defender,2022-23,32,Morocco,33,2937,1,4,3,1821,87.8,5,5,1,6.5
+55,Carlos Evans,Northern Star,Defender,2023-24,33,Morocco,21,1554,0,1,2,1152,89.0,3,0,2,6.8
+56,Luca Ahmed,Eastern Athletic,Defender,2021-22,22,Japan,20,1420,4,2,4,1107,77.4,6,0,0,5.5
+56,Luca Ahmed,Eastern Athletic,Defender,2022-23,23,Japan,17,1513,0,4,1,925,85.8,3,2,0,6.4
+56,Luca Ahmed,Eastern Athletic,Defender,2023-24,24,Japan,34,2686,0,3,3,1875,86.1,4,1,0,6.6
+57,Kwame Dupont,Eastern Athletic,Forward,2021-22,24,Brazil,21,1932,4,4,9,1057,59.7,0,4,2,7.9
+57,Kwame Dupont,Eastern Athletic,Forward,2022-23,25,Brazil,33,2805,8,8,18,1643,74.1,3,4,2,6.1
+57,Kwame Dupont,Eastern Athletic,Forward,2023-24,26,Brazil,19,1406,3,3,10,959,88.5,2,6,1,7.1
+58,Yuki Mbeki,FC Northgate,Midfielder,2021-22,27,France,29,2465,5,4,6,2023,72.0,2,1,0,6.6
+58,Yuki Mbeki,FC Northgate,Midfielder,2022-23,28,France,17,1292,1,6,5,1183,79.4,2,3,2,8.7
+58,Yuki Mbeki,FC Northgate,Midfielder,2023-24,29,France,24,1680,4,3,4,1689,82.3,3,4,1,6.2
+59,Elijah Nakamura,Lakeside FC,Defender,2021-22,27,Croatia,35,2765,1,2,3,1916,74.5,6,1,0,7.8
+59,Elijah Nakamura,Lakeside FC,Defender,2022-23,28,Croatia,26,1898,0,3,4,1425,67.0,4,5,2,7.6
+59,Elijah Nakamura,Lakeside FC,Defender,2023-24,29,Croatia,23,1679,1,3,1,1268,67.8,3,4,2,7.7
+60,Zaid Traoré,Capital City FC,Forward,2021-22,23,United States,21,1596,8,2,9,1047,76.0,0,6,0,7.5
+60,Zaid Traoré,Capital City FC,Forward,2022-23,24,United States,29,2059,6,8,14,1458,85.8,1,4,2,6.2
+60,Zaid Traoré,Capital City FC,Forward,2023-24,25,United States,19,1539,7,4,7,950,82.4,1,7,2,6.2
+61,Simon Kowalski,Hillside Rovers,Forward,2021-22,22,Germany,23,1748,4,5,13,1146,64.1,1,1,1,6.7
+61,Simon Kowalski,Hillside Rovers,Forward,2022-23,23,Germany,21,1701,4,5,11,1057,78.4,1,1,0,6.9
+61,Simon Kowalski,Hillside Rovers,Forward,2023-24,24,Germany,29,2552,4,5,17,1449,69.8,1,0,0,7.1
+62,Aiden Ahmed,Riverside United,Midfielder,2021-22,21,Japan,17,1343,2,2,2,1186,83.0,2,2,0,7.0
+62,Aiden Ahmed,Riverside United,Midfielder,2022-23,22,Japan,31,2728,4,7,7,2165,78.5,4,6,1,5.0
+62,Aiden Ahmed,Riverside United,Midfielder,2023-24,23,Japan,12,1128,1,4,2,841,76.1,1,2,1,6.3
+63,Mateo Müller,Riverside United,Forward,2021-22,19,Portugal,19,1425,5,6,10,956,64.7,0,7,0,7.0
+63,Mateo Müller,Riverside United,Forward,2022-23,20,Portugal,30,2220,7,2,14,1509,73.1,1,2,0,6.8
+63,Mateo Müller,Riverside United,Forward,2023-24,21,Portugal,15,1380,4,6,10,752,72.9,1,2,2,6.4
+64,Yuki Smith,Hillside Rovers,Defender,2021-22,21,Senegal,32,2816,2,2,3,1767,80.0,4,6,0,7.6
+64,Yuki Smith,Hillside Rovers,Defender,2022-23,22,Senegal,25,2100,1,1,5,1365,78.5,5,4,1,7.2
+64,Yuki Smith,Hillside Rovers,Defender,2023-24,23,Senegal,24,1776,1,2,2,1317,73.0,3,5,2,6.0
+65,Leon Herrera,Port Vale Rangers,Defender,2021-22,32,Belgium,26,2392,1,2,2,1429,70.2,3,2,1,6.8
+65,Leon Herrera,Port Vale Rangers,Defender,2022-23,33,Belgium,34,2652,2,1,3,1865,75.5,5,7,2,6.5
+65,Leon Herrera,Port Vale Rangers,Defender,2023-24,34,Belgium,30,2700,1,3,2,1641,79.1,9,1,1,6.3
+66,Oscar Rossi,Capital City FC,Midfielder,2021-22,27,Portugal,32,2624,3,3,4,2232,89.2,3,4,2,7.2
+66,Oscar Rossi,Capital City FC,Midfielder,2022-23,28,Portugal,25,2100,6,4,7,1757,71.8,5,4,1,6.7
+66,Oscar Rossi,Capital City FC,Midfielder,2023-24,29,Portugal,32,2624,4,4,10,2245,77.1,4,6,0,7.0
+67,Kwame Chen,Northern Star,Forward,2021-22,27,Nigeria,20,1520,10,3,18,996,78.2,4,6,1,6.2
+67,Kwame Chen,Northern Star,Forward,2022-23,28,Nigeria,11,792,2,3,7,542,78.8,2,4,0,7.5
+67,Kwame Chen,Northern Star,Forward,2023-24,29,Nigeria,24,2232,5,5,9,1203,77.2,0,5,2,5.1
+68,Iker Martin,Sundown Athletic,Forward,2021-22,20,Brazil,36,3312,11,3,21,1792,68.3,2,7,1,7.1
+68,Iker Martin,Sundown Athletic,Forward,2022-23,21,Brazil,30,2130,6,5,16,1490,75.3,5,1,2,6.0
+68,Iker Martin,Sundown Athletic,Forward,2023-24,22,Brazil,18,1260,2,2,10,892,70.3,1,6,1,7.6
+69,Victor Dupont,Port Vale Rangers,Midfielder,2021-22,27,France,29,2030,6,2,6,2030,74.9,2,0,1,7.5
+69,Victor Dupont,Port Vale Rangers,Midfielder,2022-23,28,France,9,630,1,1,1,638,74.3,1,4,0,5.8
+69,Victor Dupont,Port Vale Rangers,Midfielder,2023-24,29,France,23,1863,2,3,10,1605,69.9,5,0,2,7.3
+70,Liam Dupont,Sundown Athletic,Forward,2021-22,18,Uruguay,30,2460,9,6,21,1490,90.1,1,5,2,7.3
+70,Liam Dupont,Sundown Athletic,Forward,2022-23,19,Uruguay,17,1292,10,3,10,845,76.7,1,5,0,5.7
+70,Liam Dupont,Sundown Athletic,Forward,2023-24,20,Uruguay,24,2232,3,4,15,1207,67.6,2,4,1,7.7
+71,Emeka Jones,Sundown Athletic,Forward,2021-22,25,Uruguay,24,1872,2,3,10,1208,74.8,0,1,1,6.1
+71,Emeka Jones,Sundown Athletic,Forward,2022-23,26,Uruguay,21,1806,10,7,10,1055,91.8,2,5,2,6.6
+71,Emeka Jones,Sundown Athletic,Forward,2023-24,27,Uruguay,33,2739,8,9,14,1655,82.7,0,3,1,7.2
+72,Rafael Dupont,Port Vale Rangers,Forward,2021-22,22,Colombia,27,2403,11,7,11,1344,76.2,0,7,0,5.3
+72,Rafael Dupont,Port Vale Rangers,Forward,2022-23,23,Colombia,32,2560,12,3,17,1592,77.5,0,3,2,5.3
+72,Rafael Dupont,Port Vale Rangers,Forward,2023-24,24,Colombia,11,869,4,3,7,549,90.4,1,5,1,6.2
+73,Liam Rossi,FC Northgate,Forward,2021-22,30,Morocco,28,2548,9,1,15,1397,66.8,1,0,1,6.4
+73,Liam Rossi,FC Northgate,Forward,2022-23,31,Morocco,14,1302,6,5,7,707,65.1,2,4,1,5.9
+73,Liam Rossi,FC Northgate,Forward,2023-24,32,Morocco,19,1710,9,3,16,952,66.5,2,7,2,6.2
+74,Axel Bernard,Eastern Athletic,Midfielder,2021-22,21,Croatia,33,2673,5,6,8,2303,79.5,3,4,2,5.7
+74,Axel Bernard,Eastern Athletic,Midfielder,2022-23,22,Croatia,36,3240,4,4,6,2519,90.5,7,6,0,5.9
+74,Axel Bernard,Eastern Athletic,Midfielder,2023-24,23,Croatia,15,1110,3,1,4,1057,77.4,3,0,2,8.1
+75,Rafael Kowalski,Sundown Athletic,Midfielder,2021-22,25,Netherlands,9,702,1,0,1,621,64.8,1,1,0,6.7
+75,Rafael Kowalski,Sundown Athletic,Midfielder,2022-23,26,Netherlands,23,2139,3,5,3,1611,88.0,8,0,1,6.7
+75,Rafael Kowalski,Sundown Athletic,Midfielder,2023-24,27,Netherlands,25,2350,3,4,7,1743,84.1,4,6,1,6.4
+76,Victor Okafor,Port Vale Rangers,Defender,2021-22,24,Belgium,17,1326,0,4,0,941,74.2,2,4,1,5.9
+76,Victor Okafor,Port Vale Rangers,Defender,2022-23,25,Belgium,18,1584,1,3,3,984,76.9,5,5,0,5.9
+76,Victor Okafor,Port Vale Rangers,Defender,2023-24,26,Belgium,36,3168,2,1,3,1982,84.1,5,4,1,6.3
+77,Gabriel Jones,Port Vale Rangers,Forward,2021-22,19,Croatia,26,2288,9,5,9,1293,90.0,1,1,1,7.1
+77,Gabriel Jones,Port Vale Rangers,Forward,2022-23,20,Croatia,32,2816,11,5,17,1590,79.7,2,1,2,6.2
+77,Gabriel Jones,Port Vale Rangers,Forward,2023-24,21,Croatia,34,2584,11,9,17,1693,71.1,4,3,1,7.5
+78,Axel Nakamura,Westbrook City,Forward,2021-22,18,South Korea,18,1494,4,2,12,891,76.2,0,1,2,6.3
+78,Axel Nakamura,Westbrook City,Forward,2022-23,19,South Korea,37,2627,16,5,16,1846,67.1,2,2,0,7.5
+78,Axel Nakamura,Westbrook City,Forward,2023-24,20,South Korea,17,1326,7,2,8,850,73.7,1,2,2,7.7
+79,Diego Evans,FC Northgate,Defender,2021-22,29,Argentina,10,720,4,0,4,555,76.0,1,5,2,5.4
+79,Diego Evans,FC Northgate,Defender,2022-23,30,Argentina,28,2604,2,0,3,1536,70.2,3,5,1,7.1
+79,Diego Evans,FC Northgate,Defender,2023-24,31,Argentina,9,819,1,0,1,489,75.8,1,4,0,6.5
+80,Seo Kowalski,Lakeside FC,Defender,2021-22,28,Portugal,37,3256,2,3,4,2031,71.8,5,5,0,6.3
+80,Seo Kowalski,Lakeside FC,Defender,2022-23,29,Portugal,30,2130,3,3,5,1643,78.9,3,0,2,7.7
+80,Seo Kowalski,Lakeside FC,Defender,2023-24,30,Portugal,10,720,2,0,2,544,74.1,3,5,0,7.7
+81,Seo García,Westbrook City,Midfielder,2021-22,21,Nigeria,17,1479,2,4,4,1184,78.4,1,4,2,6.2
+81,Seo García,Westbrook City,Midfielder,2022-23,22,Nigeria,18,1620,4,4,4,1258,76.6,4,4,1,6.5
+81,Seo García,Westbrook City,Midfielder,2023-24,23,Nigeria,23,1679,1,3,3,1618,80.7,3,7,2,6.4
+82,Tom Rossi,Westbrook City,Midfielder,2021-22,25,Senegal,36,2664,7,6,7,2512,68.2,2,5,0,7.2
+82,Tom Rossi,Westbrook City,Midfielder,2022-23,26,Senegal,33,2706,3,5,8,2314,78.9,5,7,1,5.8
+82,Tom Rossi,Westbrook City,Midfielder,2023-24,27,Senegal,28,2044,3,5,6,1967,90.8,1,7,2,7.1
+83,Leon Kowalski,Hillside Rovers,Forward,2021-22,29,Italy,22,1672,4,2,13,1108,73.5,0,2,2,6.9
+83,Leon Kowalski,Hillside Rovers,Forward,2022-23,30,Italy,12,1044,4,3,6,599,74.4,1,1,1,6.6
+83,Leon Kowalski,Hillside Rovers,Forward,2023-24,31,Italy,32,2752,14,4,23,1593,88.8,2,3,0,6.1
+84,Gabriel Park,Eastern Athletic,Defender,2021-22,19,Belgium,15,1215,3,0,3,823,65.6,2,4,2,8.3
+84,Gabriel Park,Eastern Athletic,Defender,2022-23,20,Belgium,19,1368,1,0,1,1048,69.1,3,1,2,6.8
+84,Gabriel Park,Eastern Athletic,Defender,2023-24,21,Belgium,32,2272,1,4,6,1763,64.3,2,5,1,7.5
+85,Max García,Port Vale Rangers,Goalkeeper,2021-22,20,Netherlands,18,1386,2,0,2,638,65.6,0,7,1,8.6
+85,Max García,Port Vale Rangers,Goalkeeper,2022-23,21,Netherlands,17,1292,0,0,1,596,68.6,1,4,0,5.2
+85,Max García,Port Vale Rangers,Goalkeeper,2023-24,22,Netherlands,24,1776,0,1,0,847,75.6,0,7,0,8.3
+86,Diego Kowalski,Eastern Athletic,Midfielder,2021-22,29,Colombia,24,1800,3,4,8,1678,72.4,3,4,1,5.9
+86,Diego Kowalski,Eastern Athletic,Midfielder,2022-23,30,Colombia,26,1846,2,8,2,1814,86.8,2,6,1,6.2
+86,Diego Kowalski,Eastern Athletic,Midfielder,2023-24,31,Colombia,21,1512,1,3,8,1462,81.3,0,5,2,7.0
+87,Felix Osei,Capital City FC,Defender,2021-22,18,Spain,28,2632,0,2,0,1536,70.1,4,5,2,7.3
+87,Felix Osei,Capital City FC,Defender,2022-23,19,Spain,37,2738,2,2,2,2033,61.6,3,3,0,7.6
+87,Felix Osei,Capital City FC,Defender,2023-24,20,Spain,28,2492,1,4,4,1544,77.3,4,3,2,6.1
+88,Noah Nakamura,Hillside Rovers,Defender,2021-22,18,Brazil,12,1116,2,2,2,661,78.1,3,7,1,6.3
+88,Noah Nakamura,Hillside Rovers,Defender,2022-23,19,Brazil,20,1740,1,1,3,1092,79.0,1,6,0,6.1
+88,Noah Nakamura,Hillside Rovers,Defender,2023-24,20,Brazil,21,1764,3,3,3,1150,74.5,4,3,0,8.0
+89,Lucas Osei,Lakeside FC,Midfielder,2021-22,30,Brazil,11,869,1,1,2,767,73.1,1,4,1,6.4
+89,Lucas Osei,Lakeside FC,Midfielder,2022-23,31,Brazil,18,1314,1,3,3,1259,76.2,7,3,1,5.4
+89,Lucas Osei,Lakeside FC,Midfielder,2023-24,32,Brazil,23,2139,5,5,5,1610,85.8,5,1,2,6.3
+90,Simon Chen,Eastern Athletic,Midfielder,2021-22,20,Argentina,33,2673,1,9,7,2309,69.6,1,5,0,7.1
+90,Simon Chen,Eastern Athletic,Midfielder,2022-23,21,Argentina,35,3115,3,4,5,2456,67.0,3,5,1,6.8
+90,Simon Chen,Eastern Athletic,Midfielder,2023-24,22,Argentina,24,1992,1,2,2,1680,76.6,3,6,0,6.5
+91,Finn Herrera,Riverside United,Defender,2021-22,28,Mexico,9,720,1,1,1,494,77.7,1,3,2,7.3
+91,Finn Herrera,Riverside United,Defender,2022-23,29,Mexico,11,814,0,0,1,599,80.2,0,3,2,7.5
+91,Finn Herrera,Riverside United,Defender,2023-24,30,Mexico,37,2812,0,4,4,2034,82.6,11,6,2,6.9
+92,Carlos Traoré,Sundown Athletic,Midfielder,2021-22,22,Italy,15,1185,2,3,6,1048,70.4,2,1,1,8.4
+92,Carlos Traoré,Sundown Athletic,Midfielder,2022-23,23,Italy,19,1748,6,1,6,1328,72.5,1,6,2,6.0
+92,Carlos Traoré,Sundown Athletic,Midfielder,2023-24,24,Italy,28,2548,3,7,7,1968,95.0,5,0,2,7.3
+93,Simon Diallo,Capital City FC,Midfielder,2021-22,29,Japan,21,1617,3,1,5,1462,85.8,2,2,2,7.8
+93,Simon Diallo,Capital City FC,Midfielder,2022-23,30,Japan,11,979,0,3,0,766,58.2,1,4,0,8.4
+93,Simon Diallo,Capital City FC,Midfielder,2023-24,31,Japan,30,2760,2,5,6,2092,77.5,6,7,2,7.2
+94,Zaid Herrera,FC Northgate,Midfielder,2021-22,20,Senegal,37,3034,6,12,6,2581,71.5,7,5,0,5.5
+94,Zaid Herrera,FC Northgate,Midfielder,2022-23,21,Senegal,25,2125,7,3,7,1746,66.1,1,2,1,8.4
+94,Zaid Herrera,FC Northgate,Midfielder,2023-24,22,Senegal,19,1349,0,1,3,1337,71.8,6,5,2,7.6
+95,Yuki Silva,Lakeside FC,Defender,2021-22,18,England,24,1752,1,3,6,1329,65.1,3,0,0,5.3
+95,Yuki Silva,Lakeside FC,Defender,2022-23,19,England,19,1558,0,1,1,1044,69.8,1,0,2,7.3
+95,Yuki Silva,Lakeside FC,Defender,2023-24,20,England,33,3069,0,1,4,1815,79.6,9,6,0,6.8
+96,Victor Herrera,Capital City FC,Midfielder,2021-22,18,United States,12,1032,2,2,2,848,81.0,1,6,1,7.1
+96,Victor Herrera,Capital City FC,Midfielder,2022-23,19,United States,26,1898,4,3,4,1813,67.1,3,6,1,6.4
+96,Victor Herrera,Capital City FC,Midfielder,2023-24,20,United States,12,876,2,2,2,833,76.7,0,5,0,6.8
+97,Diego Okafor,Sundown Athletic,Forward,2021-22,25,South Korea,35,2695,10,3,16,1751,76.2,3,0,0,7.4
+97,Diego Okafor,Sundown Athletic,Forward,2022-23,26,South Korea,32,2944,9,3,25,1595,77.8,2,0,0,8.4
+97,Diego Okafor,Sundown Athletic,Forward,2023-24,27,South Korea,36,3024,11,5,23,1790,74.4,3,6,2,6.2
+98,Oliver Kowalski,Hillside Rovers,Midfielder,2021-22,27,Portugal,36,2808,5,7,6,2521,69.7,6,5,1,7.2
+98,Oliver Kowalski,Hillside Rovers,Midfielder,2022-23,28,Portugal,8,744,1,0,1,551,91.9,2,0,2,7.1
+98,Oliver Kowalski,Hillside Rovers,Midfielder,2023-24,29,Portugal,26,1872,2,3,9,1826,69.8,4,2,0,7.5
+99,Lucas Ahmed,Sundown Athletic,Forward,2021-22,28,Senegal,11,858,5,1,6,540,74.3,0,3,1,7.7
+99,Lucas Ahmed,Sundown Athletic,Forward,2022-23,29,Senegal,18,1692,6,3,13,890,72.6,2,6,1,6.6
+99,Lucas Ahmed,Sundown Athletic,Forward,2023-24,30,Senegal,16,1328,6,2,6,809,78.3,1,1,2,7.1
+100,Victor Okafor,Westbrook City,Midfielder,2021-22,29,Germany,36,2844,4,4,7,2529,75.3,3,0,1,7.9
+100,Victor Okafor,Westbrook City,Midfielder,2022-23,30,Germany,33,3102,7,6,7,2305,83.7,6,5,0,5.6
+100,Victor Okafor,Westbrook City,Midfielder,2023-24,31,Germany,15,1200,1,3,2,1041,73.4,3,1,1,7.7
